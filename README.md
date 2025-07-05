@@ -9,6 +9,7 @@ Flutter plugin for [Facebook App Events](https://developers.facebook.com/docs/ap
 
 Flutter plugin for Facebook App Events, an app measurement solution that provides insight on app usage and user engagement.
 
+
 ## Setting things up
 
 You must first create an app at Facebook for developers: https://developers.facebook.com/
